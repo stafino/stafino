@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/77484939/194296742-92ef3cac-514b-49f2-8f39-26c84233020d.png)
+![github-header-image-2](https://user-images.githubusercontent.com/77484939/194296972-a9b0c184-7aeb-444e-8dd3-1ad29b2b7563.png)
+
 
 - 🧑🏼‍🎓 I am pursuing a Msc. in Computer Science at the University of Glasgow (4th year)
 - 👨🏼‍💻 I have experience working as a Software Engineer, Automation tester, Mobile App Developer and a Product Owner (I am currently looking for a part-time job)
