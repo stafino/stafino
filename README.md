@@ -1,9 +1,21 @@
-![github-header-image-7](https://user-images.githubusercontent.com/77484939/194298569-3883924d-40f1-4776-b40c-dd880e2cb93f.png)
+ Hi, I'm Oliver 👋
 
+  Growth @ [etn](http://twitter.com/intent/user?screen_name=etnshow) · Writing [The Founders' Fuel](https://www.thefoundersfuel.com) for 13,000+ founders · MSci CS @ University of Glasgow
 
+  ---
 
+  ### What I'm up to
 
-- 👨🏼‍💻 SWE @ Barclays, Founder @ Unicourn, Veeno
-- 🌱 Writing ["The Founders' Fuel" newsletter](https://www.thefoundersfuel.com) for 10,000+ startup founders
-- 🧑🏼‍🎓 Msci. in Computer Science @ the University of Glasgow
-- 📫 How to reach me: <a href="https://drive.google.com/file/d/1tKGaC34ESKCp6W3t1KR_jwSW6IO3kCTL/view?usp=sharing"><img src="https://cdn3.emoji.gg/emojis/2174-stats.png" width="15px" height="15px" alt="CV"> professional resume</a>, <a href="https://emoji.gg/emoji/4044-instagram-logo"><img src="https://cdn3.emoji.gg/emojis/4044-instagram-logo.png" width="15px" height="15px" alt="Instagram_Logo"></a> [instagram](https://www.instagram.com/oliverstafurik/ ), <a href="https://emoji.gg/emoji/7825-mail-1"><img src="https://cdn3.emoji.gg/emojis/7825-mail-1.gif" width="15px" height="15px" alt="Mail_1"></a> [work email](mailto:oliver@thefoundersfuel.com?subject=[GitHub]%20Source%20Han%20Sans), <a href="https://emoji.gg/emoji/9255-discord"><img src="https://cdn3.emoji.gg/emojis/9255-discord.png" width="15px" height="15px" alt="discord"></a> štafino#9525, <a href="https://emoji.gg/emoji/7474_twitter"><img src="https://cdn3.emoji.gg/emojis/7474_twitter.png" width="15px" height="15px" alt="twitter"></a> [twitter](https://twitter.com/stafino_/
+  - 🎙️  Running growth at **[etn](http://twitter.com/intent/user?screen_name=etnshow)** — a European tech show featuring founders and VCs from EF, YC, and beyond
+  - 📰 Writing **[The Founders' Fuel](https://www.thefoundersfuel.com)** — a weekly newsletter read by 13,000+ startup founders
+  - 🍷 Building **[Veeno](https://www.oliverstafurik.com)** — a wine subscription
+  - 🌍 Based in Europe
+
+  ---
+
+  ### Connect
+
+  [![X](https://img.shields.io/badge/@OliStafurik-000000?style=for-the-badge&logo=x&logoColor=white)](http://twitter.com/intent/user?screen_name=OliStafurik)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-stafurik-product-manager/)
+  [![Newsletter](https://img.shields.io/badge/The_Founders'_Fuel-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://www.thefoundersfuel.com)
+  [![Website](https://img.shields.io/badge/oliverstafurik.com-171717?style=for-the-badge&logo=safari&logoColor=white)](https://www.oliverstafurik.com)
