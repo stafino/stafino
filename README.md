@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b1cd52b4-40c5-45ec-936f-793d5f83719a" />
+ 
  Hi, I'm Oliver 👋
 
   Growth @ [etn](http://twitter.com/intent/user?screen_name=etnshow) · Writing [The Founders' Fuel](https://www.thefoundersfuel.com) for 13,000+ founders · MSci CS @ University of Glasgow
